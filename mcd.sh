@@ -1,9 +1,10 @@
 mcd(){
+	apt install vim
+	apt intall neofetch
 	mkdir -p "$1"
-	cd "$1"
 	echo mantap_men > "$2.txt"
 }
-echo "berisi fungsi mcd namaFolder namaFile"
+echo "berisi fungsi"
 
 # cara memanggil fungsi
 # mcd namaFolder namaFile
