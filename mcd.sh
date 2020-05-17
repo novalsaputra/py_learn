@@ -4,5 +4,6 @@ mcd(){
 }
 
 apt install neofetch
-echo "tes install lewat bash"
+mcd newfolder newfile
+echo "install dan buat folder lewat bash"
 
